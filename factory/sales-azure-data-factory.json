@@ -1,0 +1,9 @@
+{
+	"name": "sales-azure-data-factory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea724421-5264-45e9-ae7f-d09c1be1c1df",
+		"tenantId": "477314c4-d0b3-42bd-9855-e5d52bf6a1aa"
+	}
+}

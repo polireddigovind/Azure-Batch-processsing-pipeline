@@ -1,0 +1,6 @@
+{
+	"name": "Sales-self-hosted-IR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
